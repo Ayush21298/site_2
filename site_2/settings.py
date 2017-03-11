@@ -25,7 +25,7 @@ SECRET_KEY = ')9vh7&ru89@7)g)#trps!m-0y#c%r+6zd-4(4mp0hf3s#w(bmq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ u'http://apsite2.herokuapp.com/',u'http://127.0.0.1/' ]
+ALLOWED_HOSTS = [ u'http://apsite2.herokuapp.com/',u'http://127.0.0.1/', u'apsite2.herokuapp.com' ]
 
 
 # Application definition
